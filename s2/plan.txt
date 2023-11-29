@@ -1,0 +1,64 @@
+integration de js
+
+les variables  :
+
+nom_variable = valeur;
+
+var - let - const 
+
+const => constante
+
+{ 
+    var a = 5;
+    let b = 3;
+}
+
+let ???
+
+a => accessible
+b => non accessible
+
+les types de javascript 
+
+fortemenet type 
+faiblement type javascript 
+
+java c# 
+
+int age = 20;
+string nom = "john"
+
+nom = 3; => error
+
+javascript 
+
+note = 19;
+note = "nadir"
+
+les types : 
+number (entier - float - ..) (12 17.36)
+string ('hi'  "hi dev102")
+boolean (true false) (isConnected = false)
+undefined
+
+a=5;
+
+a+=3 // a = a + 3 // a = 5+3=8
+a=3; // a = 3
+
+var a = 3
+var b = 6 
+var c= a + b 
+c=9 => addition
+
+var a = "hi"
+var b = "dev102"
+var c= a + b 
+c="hidev102" => concatenation
+
+let texte1 = "OFPPT"; // texte1 = "OFPPT"
+texte1 += " ";// texte1 = texte1 + " " = "OFPPT "
+let texte2 = "en force";
+
+let texte3 = texte1 + texte2 => "OFPPT en force"
+
