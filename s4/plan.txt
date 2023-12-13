@@ -1,0 +1,9 @@
+M105 programmer en JS : 
+
+les notions de bases : les variables : var let const
+les methodes de sortie : console alert document write
+les methode d'entree : prompt les formulaires (input select ...)
+
+les fonctions  onclick="function()"
+
+les operations : + - * / > < == === 
