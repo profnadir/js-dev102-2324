@@ -118,12 +118,11 @@ j=1 j=2
 
 function somme(a, b){
     let c = a+b;
-    document.write(c)
+    return c;
 }
 
-function somme(a, b){
-    let c = a+b;
-    alert(c)
-}
 
-somme(84,40);
+
+document.write(somme(84,40));
+alert(somme(4,6))
+console.log(somme(7,8))
